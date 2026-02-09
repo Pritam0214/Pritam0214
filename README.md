@@ -1,6 +1,6 @@
 # Hi, I’m Pritam! 👋
 
-I am an aspiring **Data Analyst** with hands-on experience in Python, SQL, Excel, and Power BI. I enjoy transforming raw data into actionable insights and building dashboards and reports that help businesses make informed decisions.
+I am a **Data Analyst** with hands-on experience in Python, SQL, Excel, and Power BI, focused on delivering actionable insights through dashboards and reports.
 
 ## 🔹 Skills
 **Data Analysis:** Pandas, NumPy, Excel
@@ -20,4 +20,4 @@ I am an aspiring **Data Analyst** with hands-on experience in Python, SQL, Excel
 - 📧 Email: pritammeshram214@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/pritam-meshram91 
 
-I am actively seeking opportunities in **Data Analytics** and **Business Intelligence**, and I’m always learning new tools and techniques to improve my skills.
+I am actively seeking **entry-level Data Science roles** and **internship** opportunities while continuously building my foundational data science skills.
